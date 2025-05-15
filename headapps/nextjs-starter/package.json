@@ -59,7 +59,7 @@
     "@graphql-typed-document-node/core": "^3.2.0",
     "@sitecore-jss/sitecore-jss-cli": "~22.6.0",
     "@sitecore-jss/sitecore-jss-dev-tools": "~22.6.0",
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.15.18",
     "@types/react": "^18.2.22",
     "@types/react-dom": "^18.0.5",
     "@typescript-eslint/eslint-plugin": "^8.14.0",
